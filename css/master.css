@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;    
+
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.text-sh{
+    text-shadow: 3px 3px 2px black;   
+}
+html{
+    scroll-behavior: smooth;
+}
